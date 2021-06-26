@@ -26,7 +26,7 @@ runner.color('white')
 runner.penup()
 chaser.speed(0)
 chaser.shape('square')
-chaser.color('white')
+chaser.color('red')
 chaser.penup()
 # changing directions
 def up():
