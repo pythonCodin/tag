@@ -15,7 +15,7 @@ x = 1
 # the tagger
 chaser = turtle.Turtle()
 chaser.goto(0, -30)
-# starting the game
+# making the defult position up
 chaser.setheading(90)
 runner.setheading(90)
 
